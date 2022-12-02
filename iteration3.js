@@ -8,7 +8,7 @@
 //* resultado
 
 let multiplicacion = 10 * 5
-console.log(operacion)
+console.log(multiplicacion)
 
 let division = 10 / 2
 console.log(division)
